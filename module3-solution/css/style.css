@@ -1,0 +1,49 @@
+body {
+	font-family: 'Oxygen', sans-serif;
+	background-color: lightyellow;
+}
+
+#header-nav {
+	background-color: yellowgreen;
+}
+
+.navbar-header {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar-brand {
+	font-size: 2em;
+}
+
+a.nav-link:hover {
+	color: lightyellow;
+}
+
+hr#break4 {
+	margin-bottom: 0;
+}
+
+button:hover {
+	background-color: lightyellow;
+}
+
+/******** content ********/
+h1 {
+	margin: 30px 0 15px 0;
+}
+
+div.col-md-12, .col-ms-12, .col-xs-12 {
+	background: lightgreen;
+	height: 1000px;
+	border-radius: 10px;
+}
+
+h4 {
+	text-align: center;
+	padding-top: 15px;
+}
+
+p {
+	padding: 0 10px 0 10px;
+}
